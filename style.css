@@ -1,0 +1,31 @@
+.header{
+    color: #5A2D0C;
+    background-color: #FFEBCD ;
+    padding: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  body{
+    font-family: "Helvetica", sans-serif;
+  }
+  
+  .menu-list{
+  background-color: #E6E6FA ;
+  padding: 20px;
+  
+  }
+  
+  .menu-item{
+    display: block;
+    font-size: 18px;
+  }
+  
+  .coffee-image{
+  margin-right: 20px;
+  margin-top: 15px;
+  width: 100px;
+  position: relative;
+  z-index: 2;
+  float: right;
+  }
